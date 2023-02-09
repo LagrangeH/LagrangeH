@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=LagrangeH&theme=prussian&hide_border=true&border_radius=50&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **LagrangeH/LagrangeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
