@@ -12,7 +12,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
     </a>
     <a href="https://vk.com/amnitr">
-        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VK-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
     </a>
     <a href="https://stackoverflow.com/users/16177236/lagrange">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
