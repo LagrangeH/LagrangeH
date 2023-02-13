@@ -51,7 +51,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 <img src=""/>
 -->
 </p>
-<h2 align="center">💻OS</h2>
+<h2 align="center">💻OSs</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
