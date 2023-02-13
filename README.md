@@ -2,11 +2,6 @@
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://home.aveek.io/GitHub-Profile-Badges/ 
 -->
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=LagrangeH&theme=react&hide_border=true&border_radius=20&mode=weekly"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LagrangeH&theme=react&border_radius=20&hide_border=true"/>
-</p>
-
 <h2 align="center">📫How to reach me</h1>
 
 <p align="center">
@@ -64,4 +59,10 @@ https://home.aveek.io/GitHub-Profile-Badges/
     <img src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
+</p>
+
+<h2 align="center">⭐GitHub stats</h2>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=LagrangeH&theme=react&hide_border=true&border_radius=20&mode=weekly"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LagrangeH&theme=react&border_radius=20&hide_border=true"/>
 </p>
