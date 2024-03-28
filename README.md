@@ -1,8 +1,8 @@
 <h3 align="center">Hi👋 I'm Maxim, a DevOps engineer at Sibintek-Soft</h3>
 
-###
+### 
 
-<h3 align="left">🚀 My Skill Set</h3>
+## 🚀 My Skill Set
 
 ###
 
@@ -47,8 +47,7 @@
 </div>
 
 ###
-
-<h3 align="left">📫 How to Reach Me</h3>
+## 📫 How to Reach Me</h3>
 
 ###
 
@@ -56,7 +55,7 @@
   <a href="https://www.linkedin.com/in/maxim-s-9b6936247/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
-  <a href="maxsergeev39@gmail.com" target="_blank">
+  <a href="mailto:maxsergeev39@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
   </a>
   <a href="https://t.me/lagrangeh" target="_blank">
@@ -66,7 +65,7 @@
 
 ###
 
-<h3 align="left">⭐ GitHub Stats</h3>
+## ⭐ GitHub Stats</h3>
 
 ###
 
