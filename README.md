@@ -1,4 +1,4 @@
-<h3 align="center">Hi👋 I'm Maxim, a DevOps engineer at <a href="https://sber.ru">Sber</a></h3>
+<h3 align="center">Hi👋 I'm Maxim, a DevOps engineer at <a href="https://sber.ru" alt="sber.ru">Sber</a></h3>
 
 ### 
 
